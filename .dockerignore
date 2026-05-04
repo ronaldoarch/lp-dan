@@ -1,0 +1,6 @@
+.git
+.gitignore
+.dockerignore
+*.md
+.DS_Store
+.cursor
